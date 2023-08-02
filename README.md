@@ -1,5 +1,5 @@
 # Scheme-Interpreter
-I have constructed an interpreter for a subset of the Scheme language, necessitating a deep comprehension of lexical and syntactic analysis, along with intricate input parsing skills.
+In this project, I have constructed an interpreter for a subset of the Scheme language, necessitating a deep comprehension of lexical and syntactic analysis, along with intricate input parsing skills.
 
 I have developed features of the Scheme Interpreter, including:
 - symbol evaluation, calling built-in procedures, and definitions
