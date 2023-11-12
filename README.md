@@ -1,11 +1,12 @@
-# Scheme-Interpreter
-In this project, I have constructed an interpreter for a subset of the Scheme language, necessitating a deep comprehension of lexical and syntactic analysis, along with intricate input parsing skills.
+# Scheme Interpreter
 
-I have developed features of the Scheme Interpreter, including:
-- symbol evaluation, calling built-in procedures, and definitions
-- Lambda procedures, using the (lambda ...) special form
-- Named lambda procedures, using the (define (...) ...) special form
-- Mu procedures, with dynamic scope
-- Logical special forms: if, and, or, and cond
+This repository contains a Scheme interpreter that I developed, showcasing a profound understanding of programming language concepts, including lexical and syntactic analysis, as well as complex input parsing.
 
-To read the full specs, please visit: https://inst.eecs.berkeley.edu/~cs61a/fa21/proj/scheme/#part-iv-write-some-scheme
+## Implemented Features
+- Evaluation of symbols and invocation of built-in procedures.
+- Handling of lambda expressions and procedures for anonymous functions.
+- Support for named lambda procedures and definitions.
+- Mu procedures enabling dynamic scope.
+- Logical constructs: `if`, `and`, `or`, and `cond`.
+
+For detailed project specifications, please visit [here](https://inst.eecs.berkeley.edu/~cs61a/fa21/proj/scheme/#part-iv-write-some-scheme).
